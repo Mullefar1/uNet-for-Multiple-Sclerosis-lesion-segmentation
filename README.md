@@ -20,3 +20,9 @@ The segmentation proces is split in two. Modelfitting.py are training the model 
 The Modelfitting.py uses early stopping. Make sure to change this parameter depended on your purpose. 
 
 Furthermore, the code contains different loss functions and metrics. These can be changes accordingly and based on purpose. The optimizers can be found here: https://keras.io/api/optimizers/   
+
+**Problems or Questions?**
+
+Just send an Issue and I will look into it 
+
+
