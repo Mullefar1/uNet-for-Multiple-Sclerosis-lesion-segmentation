@@ -29,6 +29,6 @@ Just send an Issue and I will look into it
 
 ## **Future:**
 
-Currently working on different supervised methods for segmentation. The idea is to develop a good enough supervised segmentation of Multiple Sclerosis lesions and then use the supervised segmentation as input to the uNet for complete automatic segmentation (no manual segmentation is needed). Stay tuned for more!
+Currently working on different supervised methods for segmentation. The idea is to develop a good enough supervised segmentation of Multiple Sclerosis lesions to use as input to the uNet for complete automatic segmentation (no manual segmentation is needed to obtain ground truth). Stay tuned for more!
 
 
