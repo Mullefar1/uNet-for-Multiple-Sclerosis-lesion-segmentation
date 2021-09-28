@@ -5,7 +5,7 @@ The segmentation proces is split in two. Modelfitting.py are training the model 
 
 **uNet structure**
 
-![u-net-architecture](https://user-images.githubusercontent.com/56428296/135147736-369c95c7-ab6a-4744-af81-882c50ca4c9e.png)
+![u-net-architecture](https://user-images.githubusercontent.com/56428296/135151189-2b6ed199-bc25-4807-82d0-42c30aa4e5f1.png)
 
 **Data**
 
