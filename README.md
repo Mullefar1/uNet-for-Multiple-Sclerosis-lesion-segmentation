@@ -1,7 +1,7 @@
 # uNet-for-Multiple-Sclerosis-lesion-segmentation
 uNet based segmentation for Multiple Sclerosis lesions in python using Keras. 
 
-The segmentation proces is split in two. Modelfitting.py are training the model and saving the model used for predicting on test data and Predict.py is predicting on the test data
+The segmentation process is split in two. Modelfitting.py are training the model and saving the model used for predicting on test data and Predict.py is predicting on the test data
 
 **uNet structure**
 
