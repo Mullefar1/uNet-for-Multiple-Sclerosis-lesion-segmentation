@@ -21,8 +21,14 @@ The Modelfitting.py uses early stopping. Make sure to change this parameter depe
 
 Furthermore, the code contains different loss functions and metrics. These can be changes accordingly and based on purpose. The optimizers can be found here: https://keras.io/api/optimizers/   
 
+The uNet should be suitable for other segmentations approaches such as brain tumor segmentation, cerebral hemorrhage segmentation etc.
+
 **Problems or Questions?**
 
 Just send an Issue and I will look into it 
+
+**Future**
+
+Currently working on different supervised methods for segmentation. The idea is to develop a good enough supervised segmentation of Multiple Sclerosis lesions and then use the supervised segmentation as input to the uNet for complete automatic segmentation (no manual segmentation is needed)
 
 
