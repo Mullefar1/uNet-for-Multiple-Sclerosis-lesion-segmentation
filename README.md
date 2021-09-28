@@ -11,15 +11,9 @@ The segmentation proces is split in two. Modelfitting.py are training the model 
 
 ![GT](https://user-images.githubusercontent.com/56428296/135148011-aa05fe06-50b4-43e3-a9f9-cc4d612c614d.PNG)
 
-
 **Results**
 
 ![result](https://user-images.githubusercontent.com/56428296/135148021-978b5322-0b54-430f-a61e-7e39d0c39788.PNG)
-
-
-![Resultunet](https://user-images.githubusercontent.com/56428296/135148027-c6b26cda-31c9-48f3-9caa-21fea5699be6.png)
-
-The highest Dice score
 
 **OBS**
 
