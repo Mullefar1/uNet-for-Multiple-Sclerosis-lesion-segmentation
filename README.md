@@ -13,7 +13,7 @@ The segmentation process is split in two. Modelfitting.py are training the model
 
 ## **Results:**
 
-![result](https://user-images.githubusercontent.com/56428296/135148021-978b5322-0b54-430f-a61e-7e39d0c39788.PNG)
+![result](https://user-images.githubusercontent.com/56428296/135154586-e0dec744-ffaa-4c58-b206-a6db3e776a6d.PNG)
 
 ## **OBS:**
 
